@@ -10,17 +10,18 @@ link-citations: yes
 description: "Summary of the Student Coach training on Leiden University"
 ---
 
-# Prerequisites
+# Preface {-}
+
+Hello welcome to my book, this will mostly be focused on documenting the the stuff I have learned my last year of the graduates at Leiden University. My name is **Stephan van der Putten** and I will mostly be focusing on summarising my courses and new developers skills.
+
+```{r include=TRUE}
+
+```
+
+# About this author {-}
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
-The **bookdown** package can be installed from CRAN or Github:
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
 
