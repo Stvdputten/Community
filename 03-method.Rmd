@@ -1,3 +1,22 @@
-# Methods
+# Skills
+
+## Flutter
+
+## Ruby on Rails
+
+## Vim
+
+
+# Programming Languages
+
+## Dart
+
+Necessary to learn Flutter
+
+## Java
+
+To better understand frameworks form Apache
+
+## 
 
 We describe our methods in this chapter.

@@ -1,0 +1,19 @@
+# Courses
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Fall
+
+### Seminar Distributed Data Mining
+
+### Distributed Data Mining
+
+### Statistical Learning
+
+### Advanced Statistical Learning
+
+### Master Class
+
+## Spring
+
+### Thesis 

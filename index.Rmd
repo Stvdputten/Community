@@ -7,12 +7,12 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Summary of the Student Coach training on Leiden University"
+description: "Summary of my year starting from Septemebr Leiden University"
 ---
 
 # Preface {-}
 
-Hello welcome to my book, this will mostly be focused on documenting the the stuff I have learned my last year of the graduates at Leiden University. My name is **Stephan van der Putten** and I will mostly be focusing on summarising my courses and new developers skills.
+Hello welcome to my book, this will mostly be focused on documenting the the stuff I have learned my last year of the graduates at Leiden University. My name is **Stephan van der Putten** and I will mostly be focusing on summarizing my courses and new developers skills.
 
 ```{r include=TRUE}
 
